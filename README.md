@@ -1,4 +1,4 @@
-# Web Development Lab 5 - *📸 ApiFlash Screenshot App*
+*📸 ApiFlash Screenshot App*
 
 Submitted by: **Tarina Muna**
 
